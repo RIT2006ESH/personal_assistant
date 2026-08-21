@@ -1,0 +1,26 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+.env.example
+
+# Datasets
+data/
+
+# FAISS indexes
+indexes/
+
+# IDE files
+.idea/
+.vscode/
+*.swo
+*.swp
+*.swx
+
+# Logs
+*.log
